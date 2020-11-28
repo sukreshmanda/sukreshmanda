@@ -1,6 +1,9 @@
 ### Hi there 👋  I am Sukresh  👦‍👦 Welcome to my Profile
 ### I am a Student 📚, CS Enthusiast 😊, Farmer 🚜
- - Trying photography 📷 for a change [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ - Trying photography 📷 for a change 
+ 
+<br />
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 
