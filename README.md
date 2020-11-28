@@ -1,6 +1,9 @@
 ### Hi there 👋  I am Sukresh  👦‍👦 Welcome to my Profile
 ### I am a Student 📚, CS Enthusiast 😊, Farmer 🚜
  - Trying photography 📷 for a change 
+ - Happy to be IIITian (RGUKT) 
+ - Physics is super crazy to learn 🌟
+ - Eligible to vite ☑ as a Citizen of India 🇮🇳
  
 <br />
 
