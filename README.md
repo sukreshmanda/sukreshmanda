@@ -5,7 +5,7 @@
 <br />
 
 ### Social
-[<img align="left" alt="Instsrc="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://instagram.com/excitation_energy)
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://instagram.com/excitation_energy)
 
 <br />
 
