@@ -5,3 +5,7 @@
 
 ### Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukreshmanda&langs_count=10)]
+
+###
+
+[![Sukresh wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sukreshmanda)]
