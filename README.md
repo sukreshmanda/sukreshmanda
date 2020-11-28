@@ -10,7 +10,7 @@
 
 ### Social
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://instagram.com/excitation_energy)
-[<img align. ="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://twitter.com/sukreshmanda)
+[<img align. ="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/manda-sukresh-002640167/)
 
 <br />
 
