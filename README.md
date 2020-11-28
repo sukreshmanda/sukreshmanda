@@ -3,7 +3,7 @@
  - Trying photography 📷 for a change 
  
 <br />
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/excitation_energy)
 <br />
 
 
@@ -12,5 +12,3 @@
 
 ### Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukreshmanda&langs_count=10)]
-
-[instagram]: https://instagram.com/excitation_energy
