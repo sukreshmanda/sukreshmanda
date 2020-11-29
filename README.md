@@ -41,6 +41,6 @@
 
 <br />
 <br />
-### Top languages
+### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukreshmanda&langs_count=10)
