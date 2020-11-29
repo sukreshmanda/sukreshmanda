@@ -31,7 +31,7 @@
 <img align="left" alt="Linux" width="26px" src="https://pngimg.com/uploads/linux/linux_PNG47.png" />
 <img align="left" alt="Wireshark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" />
 
-<br />
+
 <br />
 
 ### Sukresh Stats
