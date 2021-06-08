@@ -1,5 +1,5 @@
 ### Hi there 👋  I am Sukresh  👦‍👦 Welcome to my Profile
-### I am a Student 📚, CS Enthusiast 😊, Farmer 🚜
+### I am a Student 📚, CS Enthusiast 😊, Agriculture enthusiast 🚜
  - Trying photography 📷 for a change 
  - Happy to be IIITian (RGUKT) 
  - Physics is super crazy to learn 🌟
