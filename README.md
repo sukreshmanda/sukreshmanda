@@ -1,4 +1,4 @@
-### Hi there 👋  I am Sukresh  👦‍👦 Welcome to my Profile     [<img target="_blank" width = "100px" src = "https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg">](https://www.buymeacoffee.com/sukreshmanda)
+### Hi there 👋  I am Sukresh  👦‍👦 Welcome to my Profile  
 ### I am a Student 📚, CS Enthusiast 😊, Agriculture enthusiast 🚜
  - Trying photography 📷 for a change 
  - Happy to be IIITian (RGUKT) 
@@ -7,7 +7,10 @@
  - 2021 Goals : To be alive 😂
  
 <br />
-<br />
+
+
+
+[<img target="_blank" width = "500px" src = "https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg">](https://www.buymeacoffee.com/sukreshmanda)
 
 ### Social Links
 
