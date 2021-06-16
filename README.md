@@ -10,7 +10,7 @@
 
 
 
-[<img target="_blank" width = "400px" src = "https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg">](https://www.buymeacoffee.com/sukreshmanda)
+[<kbd><img target="_blank" width = "400px" src = "https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg"></kbd>](https://www.buymeacoffee.com/sukreshmanda)
 
 ### Social Links
 
