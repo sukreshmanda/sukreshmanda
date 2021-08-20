@@ -63,3 +63,8 @@
 ### Ready to Code
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=import+tensorflow+as+tf;import+numpy+as+np;import+pands+as+pd;from+sklearn+import+datasets&center=true)
 
+<div align="center">
+ 
+ ![Visitor Count](https://profile-counter.glitch.me/sukreshmanda/count.svg)
+ 
+</div>
