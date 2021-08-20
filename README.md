@@ -10,8 +10,12 @@
 
 ### Community
 
-![Visits Badge](https://badges.pufler.dev/years/sukreshmanda)
-![Repos Badge](https://badges.pufler.dev/repos/sukreshmanda)
+<a href="https://github.com/sukreshmanda/sukreshmanda/stargazers"><img src="https://img.shields.io/github/stars/sukreshmanda/sukreshmanda" alt="Stars Badge"/></a>
+<a href="https://github.com/sukreshmanda/sukreshmanda/network/members"><img src="https://img.shields.io/github/forks/sukreshmanda/sukreshmanda" alt="Forks Badge"/></a>
+<a href="https://github.com/sukreshmanda/sukreshmanda/pulls"><img src="https://img.shields.io/github/issues-pr/sukreshmanda/sukreshmanda" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/sukreshmanda/sukreshmanda/issues"><img src="https://img.shields.io/github/issues/sukreshmanda/sukreshmanda" alt="Issues Badge"/></a>
+<a href="https://github.com/sukreshmanda/sukreshmanda/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sukreshmanda/sukreshmanda?color=2b9348"></a>
+<a href="https://github.com/sukreshmanda/sukreshmanda/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sukreshmanda/sukreshmanda?color=2b9348" alt="License Badge"/></a>
 
 
 [<kbd><img target="_blank" width = "400px" src = "https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg"></kbd>](https://www.buymeacoffee.com/sukreshmanda)
