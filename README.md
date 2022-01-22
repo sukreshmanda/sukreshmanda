@@ -4,7 +4,7 @@
  - Happy to be IIITian (RGUKT) 
  - Physics is super crazy to learn 🌟
  - Eligible to vite ☑ as a Citizen of India 🇮🇳
- - 2021 Goals : To be alive 😂
+ - 2022 Goals : To be alive 😂
  
 <br />
 
