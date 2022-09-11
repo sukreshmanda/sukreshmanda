@@ -61,7 +61,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sukreshmanda)
 
 ### Ready to Code
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=import+tensorflow+as+tf;import+numpy+as+np;import+pands+as+pd;from+sklearn+import+datasets&center=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=import+tensorflow+as+tf;import+numpy+as+np;import+pandas+as+pd;from+sklearn+import+datasets&center=true)
 
 <div align="center">
  
