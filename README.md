@@ -22,11 +22,11 @@
 
 ### Social Links
 
-[<img align="left" target="_blank" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://instagram.com/excitation_energy)
+[<img align="left" target="_blank" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/sukreshmanda/)
 [<img align ="left" target="_blank" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/manda-sukresh-002640167/)
 [<img align="left" target="_blank" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/c/dumbminds)
 [<img align="left" target="_blank" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mandasukresh)
-[<img align="left" target="_blank" alt="Shutterstock" width="22px" src="https://image.flaticon.com/icons/png/512/1348/1348038.png" />](https://www.shutterstock.com/g/Sukresh)
+[<img align="left" target="_blank" alt="Shutterstock" width="22px" src="https://image.flaticon.com/icons/png/512/1348/1348038.png" />](https://www.shutterstock.com/en/g/Sukresh?rid=284297511)
 <br />
 <br />
 
