@@ -26,7 +26,7 @@
 [<img align ="left" target="_blank" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/manda-sukresh-002640167/)
 [<img align="left" target="_blank" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/c/dumbminds)
 [<img align="left" target="_blank" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mandasukresh)
-[<img align="left" target="_blank" alt="Shutterstock" width="22px" src="https://image.flaticon.com/icons/png/512/1348/1348038.png" />](https://www.shutterstock.com/en/g/Sukresh?rid=284297511)
+[<img align="left" target="_blank" alt="Shutterstock" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/shutterstock.svg" />](https://www.shutterstock.com/en/g/Sukresh?rid=284297511)
 <br />
 <br />
 
