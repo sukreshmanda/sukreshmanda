@@ -1,10 +1,4 @@
 ### Hi there 👋  I am Sukresh  👦‍👦 Welcome to my Profile  
-### I am a Student 📚, CS Enthusiast 😊, Agriculture enthusiast 🚜
- - Trying photography 📷 for a change 
- - Happy to be IIITian (RGUKT) 
- - Physics is super crazy to learn 🌟
- - Eligible to vite ☑ as a Citizen of India 🇮🇳
- - 2023 Goals : To be alive 😂
  
 <br />
 
@@ -59,12 +53,3 @@
 
 ### Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sukreshmanda)
-
-### Ready to Code
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=import+tensorflow+as+tf;nvm+use+v16.16.0;import+numpy+as+np;mvn+clean+install;terraform+apply+-auto-approve&center=true)
-
-<div align="center">
- 
- ![Visitor Count](https://profile-counter.glitch.me/sukreshmanda/count.svg)
- 
-</div>
