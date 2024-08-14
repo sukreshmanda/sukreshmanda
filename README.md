@@ -14,14 +14,6 @@
 <br />
 <br />
 
-
-### Sukresh Stats
-
-![Sukresh GitHub stats](https://github-readme-stats.vercel.app/api?username=sukreshmanda&show_icons=true&theme=radical&include_all_commits=true)
-
-<br />
-<br />
-
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukreshmanda&langs_count=10)
 
